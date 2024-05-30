@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MERN-Stack-project-Livinestate/static/css/main.a1562136.css",
+    "main.js": "/MERN-Stack-project-Livinestate/static/js/main.612f6c4c.js",
+    "static/js/787.cfa84a29.chunk.js": "/MERN-Stack-project-Livinestate/static/js/787.cfa84a29.chunk.js",
+    "index.html": "/MERN-Stack-project-Livinestate/index.html",
+    "main.a1562136.css.map": "/MERN-Stack-project-Livinestate/static/css/main.a1562136.css.map",
+    "main.612f6c4c.js.map": "/MERN-Stack-project-Livinestate/static/js/main.612f6c4c.js.map",
+    "787.cfa84a29.chunk.js.map": "/MERN-Stack-project-Livinestate/static/js/787.cfa84a29.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a1562136.css",
+    "static/js/main.612f6c4c.js"
+  ]
+}
