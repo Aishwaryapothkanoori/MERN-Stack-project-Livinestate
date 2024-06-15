@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/MERN-Stack-project-Livinestate/static/css/main.8acd814d.css",
-    "main.js": "/MERN-Stack-project-Livinestate/static/js/main.9d6f6c57.js",
+    "main.css": "/MERN-Stack-project-Livinestate/static/css/main.ac981f9c.css",
+    "main.js": "/MERN-Stack-project-Livinestate/static/js/main.9b3a64b3.js",
     "static/js/787.cfa84a29.chunk.js": "/MERN-Stack-project-Livinestate/static/js/787.cfa84a29.chunk.js",
     "index.html": "/MERN-Stack-project-Livinestate/index.html",
-    "main.8acd814d.css.map": "/MERN-Stack-project-Livinestate/static/css/main.8acd814d.css.map",
-    "main.9d6f6c57.js.map": "/MERN-Stack-project-Livinestate/static/js/main.9d6f6c57.js.map",
+    "main.ac981f9c.css.map": "/MERN-Stack-project-Livinestate/static/css/main.ac981f9c.css.map",
+    "main.9b3a64b3.js.map": "/MERN-Stack-project-Livinestate/static/js/main.9b3a64b3.js.map",
     "787.cfa84a29.chunk.js.map": "/MERN-Stack-project-Livinestate/static/js/787.cfa84a29.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8acd814d.css",
-    "static/js/main.9d6f6c57.js"
+    "static/css/main.ac981f9c.css",
+    "static/js/main.9b3a64b3.js"
   ]
 }
